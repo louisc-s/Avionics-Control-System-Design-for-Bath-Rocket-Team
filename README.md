@@ -11,7 +11,9 @@ This is the code for the Bath Rocket Team Group Business Design Project. This pr
 
 * Payload - open payload bay doors and deploy payload using linear actuators 
 
-* Recovery - ignite e-matches to deploy rogue parachute 
+* Recovery - ignite e-matches to deploy rogue parachute
+
+Link to project technical report: https://drive.google.com/file/d/1kyEUwKbgS7VjUge3MUR--uscAPGwQOGy/view?usp=sharing
 
 ## Project Structure 
 
