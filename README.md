@@ -3,7 +3,7 @@ Arduino code for controlling sounding rocket during launch and flight
 
 ## Overview
 
-This is the code for the Bath Rocket Team group business design project. This project involved desinging a sounding rocket cable of reaching a 10,000ft apogee and deploying a payload. This code was developed for the flight computer that monitored and controlled all of the rocket's subsystems during the flight. The following tasks for each subsystem were carried out by this code:
+This is the code for the Bath Rocket Team Group Business Design Project. This project involved desinging a sounding rocket cable of reaching a 10,000ft apogee and deploying a payload. This code was developed for the flight computer that monitored and controlled all of the rocket's subsystems during the flight. The following tasks for each subsystem were carried out by this code:
 
 Avionics - co-ordinate telemetry system and apply kalman filter to altimneter and IMU to remove noise from sensor data for more accurate telemetry  
 Proppellant - operate flow control valve to control flow of propellant into combustion chamber and control dump valve in case of aborted launch to dump proppelant
