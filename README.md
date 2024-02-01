@@ -14,7 +14,7 @@ Recovery - ignite e-matches to deploy rogue parachute
 
 1. Avionics_Code.ino - impelements control loop for all the avionics sub-system operations
 
-2. Kalman_Filter_Code - implements combined kalman filter for IMU and altimeter in Matlab 
+2. Kalman_Filter_Code.m - implements combined kalman filter for IMU and altimeter in Matlab 
 
 ## Author 
 
